@@ -1,0 +1,44 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Default Light+",
+    "editor.columnSelection": false,
+    "editor.dragAndDrop": false,
+    "editor.minimap.enabled": false,
+    "vim.cursorStylePerMode.insert": "line",
+    "vim.cursorStylePerMode.normal": "block",
+    "vim.cursorStylePerMode.replace": "underline",
+    "vim.cursorStylePerMode.visual": "block",
+    "vim.cursorStylePerMode.visualblock": "block",
+    "vim.cursorStylePerMode.visualline": "block",
+    "vim.experimentalOptimizations": true,
+    "vim.foldfix": true,
+    "vim.highlightedyank.enable": true,
+    "vim.leader": " ",
+    "vim.sneak": true,
+    "vim.sneakUseIgnorecaseAndSmartcase": true,
+    "vim.useSystemClipboard": true,
+    "editor.renderLineHighlightOnlyWhenFocus": true,
+    "editor.rulers": [
+        80, 120
+    ],
+    "clojureVSCode.formatOnSave": true,
+    "workbench.activityBar.visible": true,
+    "window.menuBarVisibility": "toggle",
+    "bracket-pair-colorizer-2.colors": [
+
+        "Green",
+        "Orchid",
+        "Blue",
+        "Purple"
+    ],
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.overviewRulerBorder": false,
+    "debug.showBreakpointsInOverviewRuler": true,
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["<Backspace>"],
+            "after": ["h"]
+        }
+    ],
+    "editor.lineNumbers": "relative"
+}
