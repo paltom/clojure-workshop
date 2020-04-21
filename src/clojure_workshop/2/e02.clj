@@ -32,3 +32,9 @@ favorite-fruit
 (dissoc favorite-fruit :kcal_per_100g :color)
 
 ; Sets
+#{1 2 3 4 5}
+#{:a :a :b :c}
+(hash-set :a :b :c :d)
+(set [:a :b :c])
+(set ["No" "Copy" "Cats" "Cats" "Please"])
+(sorted-set "No" "Copy" "Cats" "Cats" "Please")
